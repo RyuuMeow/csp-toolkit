@@ -7,9 +7,9 @@
   <a href="README.ja-JP.md">日本語</a>
 </p>
 
-A curated hub for utility tools that make Clip Studio Paint workflows faster, smoother, and easier to keep in rhythm.
+A curated hub for Clip Studio Paint tools I develop, along with other interesting tools I have found that are made by other developers.
 
-This repository collects the CSP-related tools I build and maintain. Each tool lives in its own dedicated repository, while this repo acts as a lightweight directory with previews, descriptions, and links to installation details. I also keep a small list of other CSP tools I have found useful or interesting.
+Each tool I develop lives in its own dedicated repository, while this repo acts as a lightweight directory with previews, descriptions, and links to installation details. I also keep a small list of other CSP tools I have found useful or interesting.
 
 ## Tools
 
