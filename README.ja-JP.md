@@ -9,7 +9,7 @@
 
 Clip Studio Paint の制作フローをより速く、なめらかに、そして集中しやすくするためのユーティリティツール集です。
 
-各ツールはそれぞれ独立したリポジトリで管理されています。この repo は、ツールの概要、プレビュー、インストール案内へのリンクをまとめた軽量なインデックスです。
+各ツールはそれぞれ独立したリポジトリで管理されています。この repo は、ツールの概要、プレビュー、インストール案内へのリンクをまとめた軽量なインデックスです。あわせて、自分が見つけた便利そうな、または興味深い CSP 関連ツールも少しまとめています。
 
 ## ツール一覧
 
@@ -43,6 +43,17 @@ Clip Studio Paint の作業を邪魔しないグレースケールプレビュ�
 <p align="center">
   <img src="demo/ClipStudioPaint-Grayscale-Viewer_Demo.gif" alt="ClipStudioPaint-Grayscale-Viewer demo">
 </p>
+
+## 見つけた他の CSP ツール
+
+他の作者によって作られた、便利そうなまたは興味深い Clip Studio Paint 関連ツールです。
+
+> これらのプロジェクトは、それぞれの作者によって管理されています。インストール方法、互換性、サポート、ライセンス情報については、各リポジトリの説明を確認してください。
+
+- [ClipStudioPaint-Smooth-Color-Adjustment](https://github.com/MMmmmoko/ClipStudioPaint-Smooth-Color-Adjustment) - CSP の変更やプラグインにより、色調補正やよく使うぼかし機能のプレビュー応答性を改善し、タイムラプス書き出しオプションなどの補助機能も提供するツール。
+- [clip_to_psd](https://github.com/dobrokot/clip_to_psd) - Clip Studio Paint の `.clip` ファイルを PSD ファイルに変換する Python スクリプト。
+- [CSPBrushExtract](https://github.com/MorrowShore/CSPBrushExtract) - Clip Studio Paint の `.sut` ブラシファイルからパラメータとブラシ先端画像を抽出するツール。
+- [Brush-Converter](https://github.com/tohsakrat/Brush-Converter) - Photoshop `.abr`、Procreate `.brushset`、Clip Studio Paint `.sut` などのブラシ形式から素材画像やパラメータを取り出すためのスクリプト。
 
 ## はじめに
 

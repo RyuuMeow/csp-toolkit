@@ -9,7 +9,7 @@
 
 這是一個 Clip Studio Paint 工具集入口，整理我開發與維護的輔助工具，讓繪圖流程更快、更順手，也更容易維持創作節奏。
 
-每個工具都有獨立的專案倉庫；這個 repo 則作為輕量索引，集中放置工具簡介、預覽圖與安裝說明連結。
+每個工具都有獨立的專案倉庫；這個 repo 則作為輕量索引，集中放置工具簡介、預覽圖與安裝說明連結。我也會在這裡整理一些自己發現、覺得有趣或實用的其他 CSP 工具。
 
 ## 工具列表
 
@@ -43,6 +43,17 @@
 <p align="center">
   <img src="demo/ClipStudioPaint-Grayscale-Viewer_Demo.gif" alt="ClipStudioPaint-Grayscale-Viewer demo">
 </p>
+
+## 我發現的其他 CSP 工具
+
+一些由其他創作者製作、我覺得有用或有趣的 Clip Studio Paint 相關工具。
+
+> 這些專案由各自的作者維護。安裝方式、相容性、支援與授權資訊，請以各專案倉庫中的說明為準。
+
+- [ClipStudioPaint-Smooth-Color-Adjustment](https://github.com/MMmmmoko/ClipStudioPaint-Smooth-Color-Adjustment) - 透過 CSP 修改與外掛改善調色、常用模糊功能的預覽流暢度，也提供縮時攝影匯出選項等工作流程輔助功能。
+- [clip_to_psd](https://github.com/dobrokot/clip_to_psd) - 將 Clip Studio Paint `.clip` 檔轉換為 PSD 檔的 Python 腳本。
+- [CSPBrushExtract](https://github.com/MorrowShore/CSPBrushExtract) - 從 Clip Studio Paint `.sut` 筆刷檔提取參數與筆尖點陣圖。
+- [Brush-Converter](https://github.com/tohsakrat/Brush-Converter) - 可從 Photoshop `.abr`、Procreate `.brushset`、Clip Studio Paint `.sut` 等筆刷格式中拆出素材圖片與參數的腳本。
 
 ## 開始使用
 

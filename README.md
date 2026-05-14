@@ -9,7 +9,7 @@
 
 A curated hub for utility tools that make Clip Studio Paint workflows faster, smoother, and easier to keep in rhythm.
 
-This repository collects the CSP-related tools I build and maintain. Each tool lives in its own dedicated repository, while this repo acts as a lightweight directory with previews, descriptions, and links to installation details.
+This repository collects the CSP-related tools I build and maintain. Each tool lives in its own dedicated repository, while this repo acts as a lightweight directory with previews, descriptions, and links to installation details. I also keep a small list of other CSP tools I have found useful or interesting.
 
 ## Tools
 
@@ -43,6 +43,17 @@ Useful when you want to:
 <p align="center">
   <img src="demo/ClipStudioPaint-Grayscale-Viewer_Demo.gif" alt="ClipStudioPaint-Grayscale-Viewer demo">
 </p>
+
+## Other CSP Tools I Found
+
+Some useful or interesting Clip Studio Paint tools made by other creators.
+
+> These projects are maintained by their respective authors. Please check each repository for installation details, compatibility notes, support, and license information.
+
+- [ClipStudioPaint-Smooth-Color-Adjustment](https://github.com/MMmmmoko/ClipStudioPaint-Smooth-Color-Adjustment) - Improves CSP color adjustment and common blur preview responsiveness through CSP modification/plugin work, with extra workflow utilities such as timelapse export options.
+- [clip_to_psd](https://github.com/dobrokot/clip_to_psd) - A Python script for converting Clip Studio Paint `.clip` files to PSD files.
+- [CSPBrushExtract](https://github.com/MorrowShore/CSPBrushExtract) - Extracts parameters and brush tip bitmaps from Clip Studio Paint `.sut` brush files.
+- [Brush-Converter](https://github.com/tohsakrat/Brush-Converter) - Scripts for unpacking material images and parameters from brush formats including Photoshop `.abr`, Procreate `.brushset`, and Clip Studio Paint `.sut`.
 
 ## Getting Started
 
