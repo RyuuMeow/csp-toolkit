@@ -1,23 +1,68 @@
-# 🎨 csp-toolkit
+# csp-toolkit
 
-A collection of utility tools and scripts tailored for Clip Studio Paint. ✨
+<p align="center">
+  <a href="README.md">English</a> |
+  <a href="README.zh-TW.md">繁體中文</a> |
+  <a href="README.zh-CN.md">简体中文</a>
+</p>
 
-Welcome to my digital art toolbox! This repository serves as a central directory for the custom utilities I've developed to streamline the drawing workflow in Clip Studio Paint. Whether you are optimizing your daily A.R.T.S. routine, sketching with a stylus, or tapping away on your shortcut keyboard, these tools are designed to help you stay in the creative zone.
+A curated hub for utility tools that make Clip Studio Paint workflows faster, smoother, and easier to keep in rhythm.
 
-## 🧰 The Tools
+This repository collects the CSP-related tools I build and maintain. Each tool lives in its own dedicated repository, while this repo acts as a lightweight directory with previews, descriptions, and links to installation details.
 
-Below is the current collection of utilities. Click on the links to visit their dedicated repositories for detailed information, installation guides, and usage instructions!
+## Tools
 
-### 🥧 [GoPieMenu](https://github.com/RyuuMeow/GoPieMenu)
-A fast and intuitive pie menu designed to bring your favorite CSP tools, actions, and shortcuts right to your cursor. Perfect for keeping your workflow seamless and minimizing the need to reach for the keyboard.
+### [GoPieMenu](https://github.com/RyuuMeow/GoPieMenu)
 
-### 👁️‍🗨️ [ClipStudioPaint-Grayscale-Viewer](https://github.com/RyuuMeow/ClipStudioPaint-Grayscale-Viewer)
-A handy utility that allows you to instantly check your artwork's values in grayscale. It's an essential helper for perfecting your lighting, contrast, and overall visual composition without disrupting your layer structure!
+A cursor-centered pie menu that lets you collect many Clip Studio Paint shortcuts into one categorized, hierarchical menu. Instead of memorizing a large shortcut map, you only need one hotkey to open the menu and operate directly at the stylus tip.
+
+Useful when you want to:
+
+- Group lots of CSP tools, actions, and commands into clear categories.
+- Build nested shortcut menus for large or specialized workflows.
+- Trigger everything from one hotkey without moving your hand away from the drawing area.
+
+<p align="center">
+  <img src="demo/GoPieMenu_Demo.gif" alt="GoPieMenu demo">
+</p>
 
 ---
 
-## 🚀 Getting Started
-To keep everything neat and organized, each tool is maintained in its own separate repository. Please visit the respective links above to download the latest releases and read their specific setup guides.
+### [ClipStudioPaint-Grayscale-Viewer](https://github.com/RyuuMeow/ClipStudioPaint-Grayscale-Viewer)
 
-## 🤝 Feedback & Support
-If these tools have helped make your creative process a little easier, I'd love to hear about it! Feel free to open an issue or submit a pull request in the individual repositories if you have any suggestions, bug reports, or feature ideas.
+A non-intrusive grayscale preview overlay for Clip Studio Paint. It sits on top of the CSP app, so you do not need to open a separate preview window, and a single hotkey gives you a Photoshop-like grayscale preview experience.
+
+Useful when you want to:
+
+- Toggle grayscale preview while staying focused on the CSP canvas.
+- Check values without modifying layers, color settings, or the working document.
+- Avoid creating temporary color layers, filling them, and repeatedly toggling layers just to preview values.
+- Get a familiar Photoshop-style grayscale preview flow inside CSP.
+
+<p align="center">
+  <img src="demo/ClipStudioPaint-Grayscale-Viewer_Demo.gif" alt="ClipStudioPaint-Grayscale-Viewer demo">
+</p>
+
+## Getting Started
+
+1. Choose the tool you want from the list above.
+2. Open its dedicated repository.
+3. Download the latest release and follow that tool's setup instructions.
+
+Because each project has its own behavior, requirements, and release cycle, installation and usage details are documented in the individual tool repositories.
+
+## Repository Structure
+
+```text
+csp-toolkit/
+├── demo/       # Preview GIFs used by this README
+└── README.md   # English project index
+```
+
+## Feedback
+
+Bug reports, ideas, and workflow suggestions are welcome. For issues related to a specific tool, please open an issue in that tool's repository so the discussion stays close to the code.
+
+## License
+
+Each linked tool may use its own license. Please check the individual repository before reusing or redistributing code.
