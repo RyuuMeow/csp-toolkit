@@ -3,7 +3,8 @@
 <p align="center">
   <a href="README.md">English</a> |
   <a href="README.zh-TW.md">繁體中文</a> |
-  <a href="README.zh-CN.md">简体中文</a>
+  <a href="README.zh-CN.md">简体中文</a> |
+  <a href="README.ja-JP.md">日本語</a>
 </p>
 
 A curated hub for utility tools that make Clip Studio Paint workflows faster, smoother, and easier to keep in rhythm.
@@ -55,8 +56,11 @@ Because each project has its own behavior, requirements, and release cycle, inst
 
 ```text
 csp-toolkit/
-├── demo/       # Preview GIFs used by this README
-└── README.md   # English project index
+├── demo/             # Preview GIFs used by this README
+├── README.md         # English project index
+├── README.zh-TW.md   # Traditional Chinese README
+├── README.zh-CN.md   # Simplified Chinese README
+└── README.ja-JP.md   # Japanese README
 ```
 
 ## Feedback

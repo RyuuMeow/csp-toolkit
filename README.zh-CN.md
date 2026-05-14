@@ -3,7 +3,8 @@
 <p align="center">
   <a href="README.md">English</a> |
   <a href="README.zh-TW.md">繁體中文</a> |
-  <a href="README.zh-CN.md">简体中文</a>
+  <a href="README.zh-CN.md">简体中文</a> |
+  <a href="README.ja-JP.md">日本語</a>
 </p>
 
 这是一个 Clip Studio Paint 工具集入口，整理我开发与维护的辅助工具，让绘图流程更快、更顺手，也更容易保持创作节奏。
@@ -58,7 +59,8 @@ csp-toolkit/
 ├── demo/             # README 使用的预览 GIF
 ├── README.md         # English project index
 ├── README.zh-TW.md   # 繁體中文說明
-└── README.zh-CN.md   # 简体中文说明
+├── README.zh-CN.md   # 简体中文说明
+└── README.ja-JP.md   # 日本語说明
 ```
 
 ## 反馈
